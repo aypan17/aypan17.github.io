@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Weapons Target Assignment
+description: Researched Deep Q-networks to solve the NP-complete WTA problem.
+img: /assets/img/ann.png
 importance: 1
 ---
 

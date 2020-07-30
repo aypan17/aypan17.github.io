@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Homes Reinvented
+description: A hackathon project for finding summer housing. Won best use of Esri Technology (Hacktech 2020).
+img: /assets/img/small.png
+redirect: https://devpost.com/software/homes-reinvented
 importance: 3
 ---
 
