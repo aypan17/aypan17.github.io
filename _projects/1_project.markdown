@@ -3,6 +3,7 @@ layout: page
 title: Weapons Target Assignment
 description: Researched Deep Q-networks to solve the NP-complete WTA problem.
 img: /assets/img/ann.png
+redirect: https://github.com/KevinHuang8/CS159-WTA/blob/master/CS_159_Report.pdf
 importance: 1
 ---
 
