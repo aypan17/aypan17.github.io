@@ -16,10 +16,10 @@ a, table.table a {
 }
 
 
-p {
-  font-family: Helvetica Neue, sans-serif;
-  font-size: 1rem;
-}
+//p {
+//  font-family: arial, sans-serif;
+//  font-size: 1rem;
+//}
 
 
 // Math
@@ -259,37 +259,39 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
   h2.year {
-    color: $grey-color-light;
+    color: $alt-blue-color;
     border-top: 1px solid $grey-color-light;
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
+    margin-right: 4rem;
     text-align: right;
   }
   ol.bibliography {
-    list-style: none;
+    list-style: circle;
     padding: 0;
     margin-top: 0;
-
     li {
       margin-bottom: 1rem;
       .abbr {
-        height: 2rem;
+        height: 1rem;
         margin-bottom: 0.5rem;
+        margin-left: -7.7rem;
         abbr {
-          display: inline-block;
+          display: none;
           background-color: $theme-color;
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: -10rem;
+          padding-right: -10rem;
         }
       }
       span {
         display: block;
       }
       .title {
-        font-weight: bolder;
+        font-weight: bold;
       }
       .author {
+        margine-right: -2rem;
         a {
           border-bottom: 1px dashed $theme-color;
           &:hover {
@@ -302,11 +304,12 @@ footer.sticky-bottom {
           font-style: normal;
         }
       }
+      
       em.star {
         border-bottom: none;
         color: $theme-color;
         font-style: normal;
-      }
+       }
       a.abstract, a.bibtex {
         cursor: pointer;
       }

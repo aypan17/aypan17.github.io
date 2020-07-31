@@ -6,4 +6,4 @@ nav: true
 ---
 
 ### **Caltech**
-- CS 21 (Complexity Theory), *Teaching Assistant*. Winter '20. 
+- CS 21 (Complexity Theory). *Teaching Assistant.* Winter '20.
