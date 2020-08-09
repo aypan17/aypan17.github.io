@@ -18,7 +18,7 @@ Hello, I'm Alex!
 
 Currently, I'm at Caltech ('22) studying computer science and mathematics. 
 
-See [here](aypan17.github.io/assets/pdf/cv_alexpan.pdf) for my CV.
+See [here](aypan17.github.io/assets/pdf/long_cv.pdf) for my CV.
 
 ### Interests
 I'm broadly interested in machine learning, applied mathematics, and discrete mathematics. 
