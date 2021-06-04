@@ -21,9 +21,8 @@ Currently, I'm an undergraduate at Caltech ('22) studying computer science and m
 See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/view?usp=sharing) for my CV.
 
 ### Interests
-I'm broadly interested in machine learning for social good and AI alignment. In want to understand the impact of algorithms on society
+I'm interested in machine learning for social good; my goal is to design algorithms that are better aligned with human intent. I like working at the intersection of machine learning, statistics, and applied math, especially problems with immediate real-world consequences.
 
-I enjoy thinking about real-world and mathematical structure (particularly graphs). I like exploring how structure manifests in a problem, and how to leverage structure to improve model design. 
 
 ### Research
 I've been fortunate to work on interesting projects with awesome people:
