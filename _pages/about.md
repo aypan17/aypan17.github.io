@@ -16,17 +16,21 @@ profile:
 
 Hello, I'm Alex! 
 
-Currently, I'm at Caltech ('22) studying computer science and mathematics. 
+Currently, I'm an undergraduate at Caltech ('22) studying computer science and mathematics. 
 
-See [here](aypan17.github.io/assets/pdf/cv.pdf) for my CV.
+See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/view?usp=sharing) for my CV.
 
 ### Interests
-I'm broadly interested in machine learning, applied mathematics, and discrete mathematics. 
+I'm broadly interested in machine learning for social good and AI alignment. In want to understand the impact of algorithms on society
 
 I enjoy thinking about real-world and mathematical structure (particularly graphs). I like exploring how structure manifests in a problem, and how to leverage structure to improve model design. 
 
 ### Research
-Right now I'm working with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Forough Arabshahi](https://forougha.github.io/) to build a differential equations solver (related to program synthesis, NLP, neural math). Previously, I've been fortunate to work with [Mason Porter](https://www.math.ucla.edu/~mason/), [Franca Hoffmann](https://francahoffmann.wordpress.com/), and [Heather Zinn Brooks](https://www.math.ucla.edu/~hbrooks/) on opinion dynamics (related to network theory, dynamical systems).
+I've been fortunate to work on interesting projects with awesome people:
+- Effects of reward mis-specification in RL with [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) and [Kush Bhatia](https://people.eecs.berkeley.edu/~kush/).
+- Compositional generalization of Transformers with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), [Ryan Prenger](https://www.linkedin.com/in/ryan-prenger-18797ba1) and [Saad Godil](https://www.linkedin.com/in/saad-godil-9728353/).
+- Adversarial training for RL agents that operate power networks with [Yuanyuan Shi](http://shiyuanyuan.site/) and [Huan Zhang](https://www.huan-zhang.com/).
+- Opinion formation on networks with [Mason Porter](https://www.math.ucla.edu/~mason/), [Franca Hoffmann](https://francahoffmann.wordpress.com/), and [Heather Zinn Brooks](https://www.math.ucla.edu/~hbrooks/).
 
 ### Contact
 
