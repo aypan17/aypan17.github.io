@@ -2,7 +2,7 @@
 layout: page
 title: Homes Reinvented
 description: A hackathon project for finding summer housing. Won best use of Esri Technology (Hacktech 2020).
-img: /assets/img/small.png
+img: /assets/img/homes_reinvented.png
 redirect: https://devpost.com/software/homes-reinvented
 importance: 3
 ---

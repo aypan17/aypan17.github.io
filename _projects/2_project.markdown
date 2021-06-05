@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pagechat
-description: A chrome extension for chatting with others via webpages. Won best social media hack (Treehacks 2021).
-img: /assets/img/pagechat.png
-redirect: https://devpost.com/software/pagechat
-importance: 1
+title: Weapons Target Assignment
+description: Studied DQNs for solving the NP-complete WTA problem.
+img: /assets/img/ann.png
+redirect: https://github.com/KevinHuang8/CS159-WTA/blob/master/CS_159_Report.pdf
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.
