@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing safe ML systems, especially sequential decision-making agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
+Hello! I work on safety at xAI. I'm also finishing my CS PhD at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in interpretability and monitoring for AI agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
 
 I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
 
