@@ -16,6 +16,7 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 Publications and Preprints
 ======
 [LatentQA: Teaching LLMs to Decode Activations Into Natural Language](https://latentqa.github.io/) \
+ICLR 2026 \
 Alexander Pan, Lijie Chen, Jacob Steinhardt \
 [pdf](https://arxiv.org/pdf/2412.08686.pdf) / [code](https://github.com/aypan17/latentqa)
 
