@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I work on safety at xAI. I'm also finishing my CS PhD at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in interpretability and monitoring for AI agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
+Hello! I work on safety at xAI, where I lead a team posttraining Grok on misuse, alignment, and robustness. My PhD was in CS at Berkeley, advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/) and supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
 
 I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
 
@@ -61,6 +61,7 @@ Caltech CS 21: *Complexity Theory*
 Teaching Assistant: Winter 2020
 -->
 
+<!---
 Projects
 ======
 I worked on some fun hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about), [Evan Yeh](https://www.linkedin.com/in/evan-yeh/), and [Terry Kwon](https://terrykwon.com/).
@@ -74,7 +75,7 @@ I worked on some fun hackathon projects with [Yongkyun (Daniel) Lee](https://non
 [homES ReInvented](https://devpost.com/software/homes-reinvented)  
 *Best use of ESRI technology - Caltech Hackathon 2020*  
 [code](https://github.com/yongkyunlee/hacktech2020)
-
+-->
 
 Contact
 ======
