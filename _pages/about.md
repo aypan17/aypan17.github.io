@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I work on safety at xAI, where I lead a team posttraining Grok on misuse, alignment, and robustness. My PhD was in CS at Berkeley, advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/) and supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
+Hello! I work on safety at xAI, where I lead a team posttraining Grok on misuse, alignment, and robustness. My PhD was in CS at Berkeley, advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/) and supported by a [FLI PhD fellowship](https://futureoflife.org/grant-programs/phd-fellowships/).
 
 I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
 
