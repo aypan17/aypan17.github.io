@@ -31,7 +31,7 @@ ICML 2024 \
 [pdf](https://arxiv.org/pdf/2402.06627.pdf) / [code](https://github.com/aypan17/llm-feedback)
 
 [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://aypan17.github.io/machiavelli/) \
-Alexander Pan, Chan Jun Shern, Jiaming Zou, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
+Alexander Pan, ..., Dan Hendrycks \
 **ICML 2023 Oral**  \
 [pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) 
 
