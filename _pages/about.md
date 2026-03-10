@@ -21,7 +21,7 @@ Alexander Pan, Lijie Chen, Jacob Steinhardt \
 [pdf](https://arxiv.org/pdf/2412.08686.pdf) / [code](https://github.com/aypan17/latentqa)
 
 [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://www.wmdp.ai/) \
-Nathaniel Li\*, Alexander Pan\*, ..., Alexandr Wang\*\*, Dan Hendrycks\*\* \
+Nathaniel Li\*, Alexander Pan\*, ..., Dan Hendrycks\*\* \
 ICML 2024 \
 [pdf](https://arxiv.org/pdf/2403.03218.pdf) / [code](https://github.com/centerforaisafety/wmdp) 
 
