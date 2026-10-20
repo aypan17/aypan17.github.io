@@ -157,6 +157,7 @@ h2 {
 
 .pub-authors .me {
   color: var(--text);
+  font-weight: 700;
 }
 
 .pub-meta {
