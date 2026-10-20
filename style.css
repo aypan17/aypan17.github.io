@@ -68,10 +68,6 @@ a:focus-visible {
 /* ----- masthead ---------------------------------------------------------- */
 
 .masthead {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
   padding-bottom: 2rem;
   margin-bottom: 2.25rem;
   border-bottom: 1px solid var(--rule);
@@ -103,15 +99,6 @@ a:focus-visible {
   text-decoration-color: var(--accent);
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
-}
-
-.portrait {
-  flex-shrink: 0;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 14px;
-  border: 1px solid var(--rule);
 }
 
 /* ----- sections ---------------------------------------------------------- */
@@ -192,16 +179,8 @@ h2 {
 }
 
 .award {
-  display: inline-block;
-  padding: 0 0.5rem;
-  margin-left: 0.15rem;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
+  color: var(--text);
   font-weight: 600;
-  font-size: 0.75rem;
-  line-height: 1.5;
-  vertical-align: 0.05em;
 }
 
 /* ----- footer ------------------------------------------------------------ */
@@ -222,17 +201,6 @@ footer p {
 /* ----- small screens ------------------------------------------------------ */
 
 @media (max-width: 620px) {
-  .masthead {
-    flex-direction: column-reverse;
-    align-items: flex-start;
-    gap: 1.4rem;
-  }
-
-  .portrait {
-    width: 108px;
-    height: 108px;
-  }
-
   .masthead h1 {
     font-size: 2.15rem;
   }
